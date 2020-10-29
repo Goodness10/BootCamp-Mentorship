@@ -1,2 +1,2 @@
 # BootCamp-Mentorship
-For mentorship
+Data Science Nigeria Prebootcamp Hackathon
